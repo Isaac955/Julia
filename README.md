@@ -20,6 +20,9 @@ Cela installera la bibliothèque Pillow nécessaire pour exécuter ce projet.
 
 
 
-## Exemple d'Image
-
+## Exemple d'utilisation
+couleur1=(88, 81, 115) 
+<br>
+couleur2=(163, 157, 203, 1)
+<br>
 ![julia](https://github.com/Isaac955/Julia/assets/123961485/d5ab3f6d-7b05-4bda-89fb-938d5322cc36)
